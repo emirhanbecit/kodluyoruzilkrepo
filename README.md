@@ -1,3 +1,3 @@
 # Kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![github](figures/ex1.png)
+![github](figure/ex1.png)
